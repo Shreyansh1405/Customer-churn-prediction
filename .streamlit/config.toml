@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#8A2BE2"          # Electric Purple
+backgroundColor = "#0b0d10"       # Deep Slate Black
+secondaryBackgroundColor = "#161b22" # Dark Grey Cards/Sidebar
+textColor = "#f0f6fc"            # Light grey/white text
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
