@@ -31,7 +31,79 @@ Customer_Churn_Prediction/
 ├── utils.py                    # Modular helpers (cleaning, styling, model loading)
 └── README.md                   # Project documentation (this file)
 ```
+# Customer Churn Prediction
 
+An end-to-end Machine Learning application that predicts whether a customer is likely to churn based on customer information.
+
+## 🚀 Live Demo
+
+[Click here to view the Live Application](YOUR_RENDER_LINK)
+
+## 📌 Project Overview
+
+Customer churn prediction helps businesses identify customers who are likely to leave their service. This project uses Machine Learning to predict customer churn based on historical customer data.
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Matplotlib
+- Seaborn
+- Git & GitHub
+
+## 🤖 Machine Learning
+
+The project uses:
+
+- Logistic Regression
+- Data preprocessing
+- One-Hot Encoding
+- Standard Scaling
+- Class Weight Balancing
+
+## 🔄 Project Workflow
+
+Customer Data  
+↓  
+Data Cleaning  
+↓  
+Exploratory Data Analysis  
+↓  
+Feature Engineering  
+↓  
+Data Preprocessing  
+↓  
+Model Training  
+↓  
+Model Evaluation  
+↓  
+Customer Churn Prediction
+
+
+## 💻 Application Features
+
+- Customer churn prediction
+- Single customer prediction
+- Batch CSV prediction
+- Data visualization
+- Model performance analysis
+
+## 📂 Project Structure
+
+```text
+Customer-churn-prediction/
+│
+├── app.py
+├── train_model.py
+├── utils.py
+├── pages/
+├── data/
+├── requirements.txt
+├── churn_model.pkl
+└── README.md
 ---
 
 ## 🛠️ Installation & Setup
