@@ -37,7 +37,7 @@ An end-to-end Machine Learning application that predicts whether a customer is l
 
 ## 🚀 Live Demo
 
-[Click here to view the Live Application](YOUR_RENDER_LINK)
+[Click here to view the Live Application](https://customer-churn-prediction-37pp.onrender.com)
 
 ## 📌 Project Overview
 
